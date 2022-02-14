@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on FOTOGRÁFIA
+- 🔭 I’m currently working on FOTOGRAFIA
 - 🌱 I’m currently learning CIÊNCIA DA COMPUTAÇÃO
 - 💬 Ask me about PROGRAMAÇÃO
 
