@@ -1,4 +1,4 @@
-## Olá eu sou o José Antonio
+## Olá eu sou o José, Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   
